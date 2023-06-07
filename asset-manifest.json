@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-todo-app/static/css/main.3a7eaa5f.css",
+    "main.js": "/react-practice-todo-app/static/js/main.b96a2e3f.js",
+    "static/js/787.d3befce1.chunk.js": "/react-practice-todo-app/static/js/787.d3befce1.chunk.js",
+    "index.html": "/react-practice-todo-app/index.html",
+    "main.3a7eaa5f.css.map": "/react-practice-todo-app/static/css/main.3a7eaa5f.css.map",
+    "main.b96a2e3f.js.map": "/react-practice-todo-app/static/js/main.b96a2e3f.js.map",
+    "787.d3befce1.chunk.js.map": "/react-practice-todo-app/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7eaa5f.css",
+    "static/js/main.b96a2e3f.js"
+  ]
+}
